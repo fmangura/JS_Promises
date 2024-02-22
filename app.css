@@ -1,0 +1,20 @@
+body {
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.CardPile {
+    display: flex;
+    justify-content: center;
+    padding-top: 25%;
+
+}
+
+li{
+    position: fixed;
+    list-style: none;
+}
